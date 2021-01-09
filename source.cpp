@@ -1,4 +1,4 @@
-//Ahmed Wadood 19I-1858 B OOP Project
+
 #include<iostream>
 #include<fstream>
 #include<string>
